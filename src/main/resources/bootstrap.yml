@@ -3,6 +3,6 @@ spring:
     name: api-gateway
   cloud:
     config:
-      uri: http://52.224.88.223:8081
+      uri: http://191.234.203.82:8081
       username: root
       password: s3cr3t
